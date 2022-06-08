@@ -1,3 +1,5 @@
+import './styles/ToDoList.scss';
+import './styles/reset.css'
 const ToDoList = () => {
   return (
     <container>
